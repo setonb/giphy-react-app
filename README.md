@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Installation and usage:
 
-- In the directory: yarn start.
+- Clone Repo
+- In the directory: yarn && yarn start
 - Search GIFs
 - Pronounce them as GIF, not GIF
 - Enjoy!
